@@ -12,7 +12,7 @@
 	<classpathentry kind="lib" path="lib/httpmime-4.5.2.jar"/>
 	<classpathentry kind="lib" path="lib/jna-4.1.0.jar"/>
 	<classpathentry kind="lib" path="lib/jna-platform-4.1.0.jar"/>
-	<classpathentry kind="lib" path="G:/koLibrary-1.0.0.27-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maxime MORICEAU/Documents/MyWork/BTS SIO/2SIO/SLAM4/koLibrary-1.0.0.27-beta1.jar"/>
 	<classpathentry kind="lib" path="lib/gson-2.6.1.jar"/>
 	<classpathentry kind="lib" path="lib/Q2Base_Rest.jar"/>
 	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.38-bin.jar"/>
